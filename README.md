@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devopseng56&label=Profile%20views&color=0e75b6&style=flat" alt="devopseng56" /> </p>
 
-- 🌱 I’m currently learning **DevOps engineer**
+- 🌱 I’m currently Working **DevOps engineer**
 
 - 💬 Ask me about **DevOps engineer**
 
